@@ -1,8 +1,8 @@
 ## Falaaa dev!
 
-- 🙋‍♂️ Gustavo Cavasotto Potrich - 17 anos
-- 🔭 Em busca do primeiro estágio!!
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas/ Ulbra - Torres
+- 🙋‍♂️ Gustavo Cavasotto Potrich - 18 anos
+- 🔭 Desenvolvedor Fullstack Python/Django - tiSul
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas/ Ulbra - Torres
 - ✍ Sempre em busca de desenvolvimento pessoal e profissional
 
 <div align="left>

@@ -1,6 +1,6 @@
 ## Falaaa dev!
 
-- 🙋‍♂️ Gustavo Cavasotto Potrich - 18 anos
+- 🙋‍♂️ Gustavo Cavasotto Potrich - 20 anos
 - 🔭 Desenvolvedor Fullstack Python/Django - tiSul
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas/ Ulbra - Torres
 - ✍ Sempre em busca de desenvolvimento pessoal e profissional

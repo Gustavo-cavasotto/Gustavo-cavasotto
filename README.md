@@ -1,37 +1,26 @@
-## Falaaa dev!
+## Gustavo Cavasotto Potrich
 
-- 🙋‍♂️ Gustavo Cavasotto Potrich - 21 anos
-- 🔭 Desenvolvedor Fullstack Python/Django/VueJS/NodeJS - tiSul
-- 🌱 Formado em Análise e Desenvolvimento de Sistemas/ Ulbra - Torres
-- ✍ Sempre em busca de desenvolvimento pessoal e profissional
+Full-stack developer at **+A Education**. I build web applications end to end, from the backend (Python/Django, Node.js) to the frontend (Vue.js).
 
-<div align="left>
+- **Education:** Systems Analysis and Development, ULBRA Torres
+- **What I care about:** readable code, pragmatic architecture and software that holds up in production
+
+### Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,django,js,vue,nodejs,html,css,bootstrap" alt="Python, Django, JavaScript, Vue.js, Node.js, HTML, CSS, Bootstrap" />
+</p>
+
+### GitHub stats
+
+<p align="left">
   <a href="https://github.com/Gustavo-cavasotto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-cavasotto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-cavasotto&layout=compact&langs_count=7&theme=merko"/>
-</div>
- <div style="display: inline_block"><br> <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>                                                                                                                             
-            
-          
-  
-</div>
-  
-   ##
- 
-<div> 
-  
-  <a href="https://www.instagram.com/gcavasotto_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gustavocpotrich@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-cavasotto-potrich-964829217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavo-cavasotto&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-cavasotto&layout=compact&langs_count=7&theme=merko&hide_border=true" alt="Most used languages" />
+  </a>
+</p>
+
+### Get in touch
+
+<a href="https://www.linkedin.com/in/gustavo-cavasotto-potrich-964829217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:gustavocpotrich@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
